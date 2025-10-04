@@ -7,7 +7,7 @@ bills = {
     50: "Mykhailo Hrushevsky",
     100: "Taras Shevchenko",
     200: "Lesya Ukrainka",
-    500: "Hryhoriy Skovoroda",
+    500: "Gryhoriy Skovoroda",
     1000: "Volodymyr Vernadsky"
 }
 n =int(input("Enter the bill: "))
